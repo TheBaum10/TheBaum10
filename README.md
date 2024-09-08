@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me, here
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I will never stop working.
+
 
 <!---
 TheBaum10/TheBaum10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
